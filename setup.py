@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="Custom Paddle", 
+    name="custompaddle", 
     version="0.1.0", 
     author="Long Nguyen",  
     author_email="longnt.vie@gmail.com", 
