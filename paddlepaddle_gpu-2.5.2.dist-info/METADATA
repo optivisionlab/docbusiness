@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
-Name: paddlepaddle-gpu
-Version: 2.5.2
+Name: custompaddle-gpu
+Version: 0.1.0
 Summary: Parallel Distributed Deep Learning
 Home-page: UNKNOWN
 Author-email: Paddle-better@baidu.com
